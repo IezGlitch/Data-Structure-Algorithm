@@ -8,6 +8,7 @@ Starting on Aug 8
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/IezGlitch/Data-Structure-Algorithm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/IezGlitch/Data-Structure-Algorithm/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Two Pointers
 |  |
 | ------- |
@@ -16,4 +17,8 @@ Starting on Aug 8
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/IezGlitch/Data-Structure-Algorithm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Sorting
+|  |
+| ------- |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/IezGlitch/Data-Structure-Algorithm/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 <!---LeetCode Topics End-->
